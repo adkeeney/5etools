@@ -9350,16 +9350,3 @@ th.border {
 .night-mode .ui-slidr__pip {
 	background: #bbb;
 } /*# sourceMappingURL=main.css.map */
-
-div,
-iframe {
-	width: 100px;
-	height: 50px;
-	margin: 0 auto;
-	background-color: #777;
-}
-
-iframe {
-	display: block;
-	border-style: none;
-}
